@@ -1,0 +1,8 @@
+streamlit
+pymongo
+pandas
+pymupdf
+ollama
+llama-index
+regex
+logging
