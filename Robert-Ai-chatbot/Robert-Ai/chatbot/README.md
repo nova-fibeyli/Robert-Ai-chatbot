@@ -75,6 +75,7 @@ Documentation and Requirements:
 ✅ **Streamlit UI** – Interactive chat interface  
 ✅ **Ollama AI Integration** – Runs locally for **AI-powered responses**  
 ✅ **File Upload & Document Querying**
+✅ Robert can answer the questions which related with **Constitution of Kazakhstan**  
 
 - Supports **.txt, .pdf, .docx**
 - Extracts **document content**
